@@ -35,7 +35,7 @@ Then open `http://localhost:3000`
 
 The contact form uses Nodemailer to send emails. To get it working:
 
-1. Create a `.env.local` file in the root directory
+1. Create a `.env` file in the root directory
 2. Copy the variables from `.env.example`
 3. Add your SMTP credentials (Gmail, Outlook, etc.)
 
