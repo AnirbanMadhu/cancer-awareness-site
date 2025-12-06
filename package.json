@@ -1,0 +1,35 @@
+{
+  "name": "cancer-awareness-site",
+  "version": "1.0.0",
+  "description": "A website for cancer awareness and support",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "cancer",
+    "awareness",
+    "nextjs",
+    "support"
+  ],
+  "author": "Anirbhab",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.0.7",
+    "nodemailer": "^7.0.11",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/node": "^24.10.1",
+    "@types/nodemailer": "^7.0.4",
+    "@types/react": "^19.2.7",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "typescript": "^5.9.3"
+  }
+}
